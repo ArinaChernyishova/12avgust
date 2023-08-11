@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     font-size: 18px;
     font-family: sans-serif;
@@ -63,8 +62,9 @@ a{
     font-size: 16px;
     display: block;
     color: #fff;
-=======
-body{
+}
+
+.body{
     font-size: 18px;
     font-family: sans-serif;
 }
@@ -128,5 +128,4 @@ a{
     font-size: 16px;
     display: block;
     color: #fff;
->>>>>>> 07c9ec071f2f2dfd41ce345bb84f14587c66e25d
 }
